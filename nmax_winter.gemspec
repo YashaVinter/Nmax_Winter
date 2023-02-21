@@ -14,8 +14,8 @@ Gem::Specification.new do |s|
                 'nmax_winter.gemspec', '.github/*.md',
                 'Gemfile', 'Rakefile']
 
-  s.homepage    = 'https://rubygems.org/gems/example'
-  s.metadata    = { "source_code_uri" => "https://github.com/example/example" }
+  s.homepage    = 'https://rubygems.org/gems/nmax_winter'
+  s.metadata    = { "source_code_uri" => "https://github.com/YashaVinter/Nmax_Winter" }
 
   s.add_dependency 'sorted_set'
 
